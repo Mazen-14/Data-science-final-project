@@ -95,21 +95,6 @@ uvicorn main:app --reload
 3. Submit the form to get stroke risk prediction
 4. View the prediction result with risk percentage
 
-## Requirements
-
-See the `requirements.txt` file for the complete list of dependencies. Main libraries include:
-
-- FastAPI
-- Numpy
-- Pandas
-- Scikit-learn
-- XGBoost
-- Matplotlib
-- Seaborn
-- Joblib
-- Uvicorn
-- Jinja2
-
 ## Project Milestones
 
 ### Milestone 1: Data Collection, Exploration, and Preprocessing
